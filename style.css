@@ -18,7 +18,7 @@ body {
 .calBody {
     height: 73vh;
     width: 80vh;
-    border-radius: 100px;
+    border-radius: 20px;
     overflow: hidden;
     box-shadow:20px 20px  100px rgb(192, 156, 156);
 
