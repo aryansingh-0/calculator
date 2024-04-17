@@ -115,6 +115,7 @@ textarea:focus, input:focus{
    
     .calBody{
         width: 90vw;
+        border-radius: 30px;
         
     }
     .circle {
